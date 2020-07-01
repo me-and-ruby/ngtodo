@@ -1,3 +1,7 @@
+# todo app
+ 
+ This Angular application was created for the purpose of learning crud operation in an array 
+ 
 # Practise
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
